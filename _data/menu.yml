@@ -1,0 +1,69 @@
+- name: Home
+  items:
+    - name: Biography
+      href: /#biography
+
+    - name: Research Interests
+      href: /#research_interests
+
+    - name: Academic Positions
+      href: /#academic_positions
+
+    - name: Education
+      href: /#education
+
+    - name: Teaching
+      href: /#teaching
+
+    - name: Skills
+      href: /#skills  
+    
+  icon: fas fa-home
+  href: Home
+  submenu: Home
+  #--------------------------------------
+
+- name: Publications
+  icon: "fas fa-book"
+  href: /publications
+  #--------------------------------------
+
+- name: Courses
+  items:
+    - name: Machine Learning
+      href: "/Courses/machine_learning"
+
+    - name: Object-Oriented Programing
+      href: "/Courses/oop"
+
+    - name: Natural Language Programing
+      href: "/Courses/nlp"
+
+    - name: Data Mining
+      href: "/Courses/data_mining"
+
+    - name: Artificial Intelligence
+      href: "/Courses/artificial_intelligence"    
+    
+  icon: fas fa-chalkboard-teacher
+  href: Courses
+  submenu: Courses
+
+  #--------------------------------------
+
+
+- name: Students
+  icon: fas fa-user-graduate
+  href: /students 
+  #--------------------------------------
+    
+
+- name: Posts
+  icon: fas fa-sticky-note
+  href: /posts 
+  #--------------------------------------
+
+- name: Contact
+  icon: fas fa-phone
+  href: /contact
+

@@ -1,0 +1,84 @@
+Phd:
+  - name: Pejman Gholamnejad
+    Thesis: Multi-Oobjective Optimization Evolutionary Algorithm using clusteirng estimation of distributions
+    date: 20 May 2020
+    pic: Gholamnejad.jpeg
+    
+  - name: Yeganeh Madadi
+    Thesis: MULTI SOURCE DOMAIN ADAPTATION VIA LOW-RANK AND SPARSE REPRESENTATION
+    date: 22 September 2020
+    pic: Madadi.jpeg
+
+  - name: Serve Lotfi
+    Thesis: Rumor detection in Twitter social network based on analysis of conversation propagation graph
+    date:  04 Nov 2020
+    pic: Na.jpeg
+
+  
+
+Master:
+  - name: Aydin Abedinia
+    Thesis: optimization of xgboost algorithm for semi-supervised learning 
+    date:  8 Sep 2018
+    pic: Abedinia.jpeg
+  #------------------------------------------------------------------------
+  - name: Parvin Aghazadeh
+    Thesis: Trustworthy Recommender Systems based on prevention of fake identities influence
+    date: 15 Sep 2018
+    pic: Aghazadeh.jpeg
+  #------------------------------------------------------------------------
+  - name: Masoumed Nafari
+    Thesis: | 
+      Using precision of users’ reviews to improve the performance 
+      of matrix factorisation method in recommender systems
+    date :  22 Sep 2018
+    pic: Nafari.jpeg
+  #------------------------------------------------------------------------
+  - name: Hassan Golshani
+    Thesis: 
+    date:  9 Feb 2019
+    pic: Na.jpeg
+  #------------------------------------------------------------------------
+  - name: Arezoo Sadat Mirmahdi 
+    Thesis: Community Detection in weighted Networks using BIGCLAM Algorithm
+    date:  07 Sep 2019
+    pic: Na.jpeg
+   #------------------------------------------------------------------------
+  - name: Ali Mollaahmadi
+    Thesis: Adversarial image caption generator network
+    date:  7 Sep 2019
+    pic: Mollaahmadi.jpeg    
+  #------------------------------------------------------------------------  
+  - name: Mehrdad Jannesar
+    Thesis: Text generation using LSTM Networks based on additive framework
+    date: 14 Jul 2020
+    pic: Jannesar.jpeg
+  #------------------------------------------------------------------------
+  - name: Hamideh Sadat Shooshtari
+    Thesis: 
+    date: 14 Jul 2020
+    pic: Na.jpeg
+  #------------------------------------------------------------------------
+  - name: Saman Jamalabbasi
+    Thesis: Sentence simplification with deep reinforcement learning
+    date:  20 Sep 2020
+    pic: Jamalabbasi.jpeg
+    #------------------------------------------------------------------------
+  - name: Nima Mashhadizadeh
+    Thesis: 
+    date:  
+    pic: Mashhadizadeh.jpeg
+    #------------------------------------------------------------------------
+  - name: Elnaz Baktash
+    Thesis: 
+    date:  
+    pic: Na.jpeg
+    #------------------------------------------------------------------------
+  - name: Sanaz Abaszadeh 
+    Thesis: 
+    date:  
+    pic: Na.jpeg
+   
+    
+
+

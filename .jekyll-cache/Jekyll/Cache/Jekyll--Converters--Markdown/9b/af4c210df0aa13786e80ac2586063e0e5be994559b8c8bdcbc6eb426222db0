@@ -1,0 +1,221 @@
+I"Ñ)
+<section class="resume-section" id="students">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-10">               
+                <h2 style="text-align: center; margin-bottom:20px;">PhD Alumni</h2>
+                <div id="testimonial-slider2" class="owl-carousel phD">
+                <!------------------------------------------------------------->                
+                                         
+                    <div class="testimonial">
+                        <div class="pic PhD">
+                            <img src="/assets/img/student/Gholamnejad.jpeg" alt="" />
+                        </div>
+                        <div class="testimonial-prof">
+                            <p class="title">Pejman Gholamnejad</p>
+                            <p class="date">20 May 2020</p>
+                        </div>
+                        <p class="description">
+                            Multi-Oobjective Optimization Evolutionary Algorithm using clusteirng estimation of distributions
+                        </p>                    
+                    </div>
+                                         
+                    <div class="testimonial">
+                        <div class="pic PhD">
+                            <img src="/assets/img/student/Madadi.jpeg" alt="" />
+                        </div>
+                        <div class="testimonial-prof">
+                            <p class="title">Yeganeh Madadi</p>
+                            <p class="date">22 September 2020</p>
+                        </div>
+                        <p class="description">
+                            MULTI SOURCE DOMAIN ADAPTATION VIA LOW-RANK AND SPARSE REPRESENTATION
+                        </p>                    
+                    </div>
+                                         
+                    <div class="testimonial">
+                        <div class="pic PhD">
+                            <img src="/assets/img/student/Na.jpeg" alt="" />
+                        </div>
+                        <div class="testimonial-prof">
+                            <p class="title">Serve Lotfi</p>
+                            <p class="date">04 Nov 2020</p>
+                        </div>
+                        <p class="description">
+                            Rumor detection in Twitter social network based on analysis of conversation propagation graph
+                        </p>                    
+                    </div>
+                     
+                <!------------------------------------------------------------->
+                </div>
+                <div class="line" style="color:#ffffff;"></div>
+                <h2 style="text-align: center; margin-bottom:20px;">M.Sc. Alumni</h2>
+                <div id="testimonial-slider1" class=" owl-carousel Ms">
+                <!------------------------------------------------------------->                
+                        
+                    <div class="testimonial">
+                        <div class="pic Ms">
+                            <img src="/assets/img/student/Abedinia.jpeg" alt="" />
+                        </div>
+                        <div class="testimonial-prof">
+                            <p class="title">Aydin Abedinia</p>
+                            <p class="date">8 Sep 2018</p>
+                        </div>
+                        <p class="description">
+                            optimization of xgboost algorithm for semi-supervised learning
+                        </p>                    
+                    </div>
+                        
+                    <div class="testimonial">
+                        <div class="pic Ms">
+                            <img src="/assets/img/student/Aghazadeh.jpeg" alt="" />
+                        </div>
+                        <div class="testimonial-prof">
+                            <p class="title">Parvin Aghazadeh</p>
+                            <p class="date">15 Sep 2018</p>
+                        </div>
+                        <p class="description">
+                            Trustworthy Recommender Systems based on prevention of fake identities influence
+                        </p>                    
+                    </div>
+                        
+                    <div class="testimonial">
+                        <div class="pic Ms">
+                            <img src="/assets/img/student/Nafari.jpeg" alt="" />
+                        </div>
+                        <div class="testimonial-prof">
+                            <p class="title">Masoumed Nafari</p>
+                            <p class="date">22 Sep 2018</p>
+                        </div>
+                        <p class="description">
+                            Using precision of usersâ€™ reviews to improve the performance 
+of matrix factorisation method in recommender systems
+
+                        </p>                    
+                    </div>
+                        
+                    <div class="testimonial">
+                        <div class="pic Ms">
+                            <img src="/assets/img/student/Na.jpeg" alt="" />
+                        </div>
+                        <div class="testimonial-prof">
+                            <p class="title">Hassan Golshani</p>
+                            <p class="date">9 Feb 2019</p>
+                        </div>
+                        <p class="description">
+                            
+                        </p>                    
+                    </div>
+                        
+                    <div class="testimonial">
+                        <div class="pic Ms">
+                            <img src="/assets/img/student/Na.jpeg" alt="" />
+                        </div>
+                        <div class="testimonial-prof">
+                            <p class="title">Arezoo Sadat Mirmahdi</p>
+                            <p class="date">07 Sep 2019</p>
+                        </div>
+                        <p class="description">
+                            Community Detection in weighted Networks using BIGCLAM Algorithm
+                        </p>                    
+                    </div>
+                        
+                    <div class="testimonial">
+                        <div class="pic Ms">
+                            <img src="/assets/img/student/Mollaahmadi.jpeg" alt="" />
+                        </div>
+                        <div class="testimonial-prof">
+                            <p class="title">Ali Mollaahmadi</p>
+                            <p class="date">7 Sep 2019</p>
+                        </div>
+                        <p class="description">
+                            Adversarial image caption generator network
+                        </p>                    
+                    </div>
+                        
+                    <div class="testimonial">
+                        <div class="pic Ms">
+                            <img src="/assets/img/student/Jannesar.jpeg" alt="" />
+                        </div>
+                        <div class="testimonial-prof">
+                            <p class="title">Mehrdad Jannesar</p>
+                            <p class="date">14 Jul 2020</p>
+                        </div>
+                        <p class="description">
+                            Text generation using LSTM Networks based on additive framework
+                        </p>                    
+                    </div>
+                        
+                    <div class="testimonial">
+                        <div class="pic Ms">
+                            <img src="/assets/img/student/Na.jpeg" alt="" />
+                        </div>
+                        <div class="testimonial-prof">
+                            <p class="title">Hamideh Sadat Shooshtari</p>
+                            <p class="date">14 Jul 2020</p>
+                        </div>
+                        <p class="description">
+                            
+                        </p>                    
+                    </div>
+                        
+                    <div class="testimonial">
+                        <div class="pic Ms">
+                            <img src="/assets/img/student/Jamalabbasi.jpeg" alt="" />
+                        </div>
+                        <div class="testimonial-prof">
+                            <p class="title">Saman Jamalabbasi</p>
+                            <p class="date">20 Sep 2020</p>
+                        </div>
+                        <p class="description">
+                            Sentence simplification with deep reinforcement learning
+                        </p>                    
+                    </div>
+                        
+                    <div class="testimonial">
+                        <div class="pic Ms">
+                            <img src="/assets/img/student/Mashhadizadeh.jpeg" alt="" />
+                        </div>
+                        <div class="testimonial-prof">
+                            <p class="title">Nima Mashhadizadeh</p>
+                            <p class="date"></p>
+                        </div>
+                        <p class="description">
+                            
+                        </p>                    
+                    </div>
+                        
+                    <div class="testimonial">
+                        <div class="pic Ms">
+                            <img src="/assets/img/student/Na.jpeg" alt="" />
+                        </div>
+                        <div class="testimonial-prof">
+                            <p class="title">Elnaz Baktash</p>
+                            <p class="date"></p>
+                        </div>
+                        <p class="description">
+                            
+                        </p>                    
+                    </div>
+                        
+                    <div class="testimonial">
+                        <div class="pic Ms">
+                            <img src="/assets/img/student/Na.jpeg" alt="" />
+                        </div>
+                        <div class="testimonial-prof">
+                            <p class="title">Sanaz Abaszadeh</p>
+                            <p class="date"></p>
+                        </div>
+                        <p class="description">
+                            
+                        </p>                    
+                    </div>
+                     
+                <!------------------------------------------------------------->
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+:ET

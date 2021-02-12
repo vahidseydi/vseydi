@@ -1,0 +1,276 @@
+About:
+  name: Vahid
+  family: Seydi
+  Phone: +447882484523
+  email: v.seydi@bangor.ac.uk
+  address: LL57 1LG, UK
+
+#----------------------------------------------
+#    Section RESEARCH INTERESTS
+#----------------------------------------------
+research_interests:
+#-----------------------------------------------
+  - name: Deep Learning
+    models: 
+      - Bayesian Deep Learning
+      - General Adversarial Networks
+      - Graph Neural Networks
+      - Variational Auto-encoder      
+      - CNN and RNN(GRU,LSTM) based models   
+      
+    applications: 
+      - Time Series Data Analysis 
+      - NLP and Text mining
+      - Domain Adaptation
+      - Audio Processing      
+      - Machine Vision and Image Processing
+      - Predictive Maintenance and Anomaly detection
+      - Health Care 
+    image: DL.jpg
+#-----------------------------------------------
+  - name: Reinforcement Learning
+    models:
+      - Deep Reinforcement Learning
+      - Adversarial Learning
+      - Q-Learning and Deep Q-Network
+      - Actor-Critic Model      
+    applications: 
+      - Autonomous Agent
+      - Continuous Control Systems
+      - Trust Region Optimization
+    image: RL.jpg
+#-----------------------------------------------
+  - name: Probabilictic Graphical Model
+    models:
+      - Explainable Machine Learning(Bayes Net)
+      - Clustering & Retrieval
+      - Matrix Factorization(PMF, NMF,...)
+      - Mixture Models                  
+    applications:
+      - Topic Model(LDA)
+      - Recommender Systems
+      - Graph Data(Social Network) Analysis
+      - Community Detection
+    image: PGM.jpg        
+#-----------------------------------------------
+  - name: Bayesian Optimization
+    models:
+      - Black-box optimization
+      - Multi-objective Black-box optimization
+      - Meta-Learning Models
+      - Gaussian Process         
+    applications:
+      - Hyper-parameter optimization
+      - few-shot Learning
+      - Transfer learning
+    image: BO.jpg
+
+#----------------------------------------------
+#    Section Education
+#----------------------------------------------
+education:
+  - degree: School of Artificial Intelligence
+    start: April 2019
+    end: July 2019
+    loc: >
+      Pi School, Pi Campus, Rome, Italy
+      (one of 20 merit-based full scholarships)
+    Thesis: >
+      Predicting failures in medium voltage lines from sequence of SCADA events.
+      (Sponsored By enel)
+    Concentrations: |
+      Deep Learning, categorical time series prediction, anomaly detection
+      (supervised and unsupervised), generative models, embedding methods.
+    Mentors: |
+      Sbastien Bratires from university of Cambridge and director of AI in
+      Translated; & Francesco Mosconi, CEO and Chief Data Scientist at
+      CATALIT, San Francisco, California.
+  #----------------------------------------------
+  - degree: Ph.D. in Artificial intelligence
+    start: September 2007 
+    end: February 2014
+    loc: Azad University, Science and Research Branch, Tehran Iran
+    Thesis: Jobs interaction theory to train hyper-parameters of the cultural optimization algorithm.
+    Concentrations: cultural optimization algorithm, neural network, multi-agent system, derivative-free learning algorithm, feature extraction.
+    Mentors: professor Mohammad Teshnehlab.
+    GPA: 18.79 / 20.00
+  #----------------------------------------------
+  - degree: M.Sc in Artificial intelligence
+    start: September 2005 
+    end: September 2007    
+    Thesis: multi-objective optimization to train neural networks and neuro-fuzzy systems.
+    Concentrations: | 
+      multi-objective optimization, neural network and fuzzy system, combination 
+      of both derivative-base and derivative-free learning algorithms to
+      prevent vanishing and exploding of gradient, and overfitting.
+    Mentors: professor Mohammad Teshnehlab.
+    GPA: 18.08 / 20.00
+  #----------------------------------------------
+  - degree: B.Sc. in Computer Software Engineering 
+    start: September 2001 
+    end: July 2005
+    #loc: Azad University, Iran
+    Thesis: implementation of an automation system for the dairy industry.
+    Concentrations: |
+      RUP methodology,data base management, SQL, object oriented programing, designing algorithm, data structure, Java, Visual C++.      
+    #Mentors: 
+    GPA: 18.36 / 20.00
+#----------------------------------------------
+#              WORK EXPERIENCES
+#----------------------------------------------
+academic_positions:
+
+- job: Research fellow in Data Science
+  start: Sep 2020
+  end: present
+  loc: School of Ocean Sciences, Bangor Universirt (Bangor, UK)
+  desc: |
+    Duties are include data science research, such as the development of tools and techniques for analysis of heterogenous data 
+    from measuring and modelling diverse environments and work to develop the SEEC digital environment (Cyberinfrastructure) 
+    in collaboration with a diverse range of SEEC researchers, on the common theme of low carbon energy.
+
+- job: Machine Learning Expert and Data Scientist
+  start: Apr 2019
+  end: Jun 2019
+  loc: Pi Campus, (Rome, Italy)
+  desc: |
+    The milestone of a particular project which has been defined and founded by Enel has been forecasting
+    the anomalies based on sequences of events in the electrical grid. My proposal has been transforming
+    it into the text anomaly detection problem. So I've worked on custom embedding method and deep
+    neural network architectures.
+
+- job: Head of Department of AI  
+  start: Oct 2017
+  end:   Apr 2019
+  loc: Azad University,South Tehran Branch, (Tehran, Iran)
+  desc: |
+    Develop and sustain appropriate structures for management, consultation, decision-making and com-
+    munication with staff and students; Relationship with industry in order to obtain a research project;
+    Ensure the highest levels of quality, integrity and ethics in all research undertaken; Deciding on which
+    courses should be teaching in each semester and assign them to the teachers in line with faculty and
+    university strategic plans and direction.
+
+- job: Assistant professor in AI Department
+  start: Feb 2014 
+  end:  Present
+  loc: Azad University, South Tehran Branch, (Tehran, Iran)
+  desc: |
+    As a faculty member of the AI department, I develop new research projects, and cooperate in existing
+    research projects, supervise PhD and MSc students research, and teach 14 hours per week. my activity
+    area has been machine learning, deep learning, text mining, mining of massive data and probabilistic
+    models. 
+
+- job: Lecturer in Computer Eng. Department 
+  start: Oct 2010
+  end: Feb 2014
+  loc: Azad University, South Tehran Branch, (Tehran, Iran)
+  desc: |
+    I have been teaching some of computer engineering courses including algorithm concepts, object-oriented
+    programming, data structures, database management(SQL) and software methodology(RUP, Agile) to
+    the bachelor students in the department of computer software engineering. Also, I've been supervising
+    some of software development projects.
+
+- job: Research Fellowship 
+  start: Oct 2007 
+  end:   Jun 2010
+  loc: KNTU, ISLAB (Tehran, Iran)
+  desc: |
+    I had been awarded two research fellowship from the Intelligence System Laboratory, KNTU, Tehran,
+    Iran. The first research project was how to hybrid optimization algorithm to training fuzzy neural networks 
+    from 2007 till 2008. The second research project was investigating multi-objective optimization
+    methods(2008-2010). professor Mohammad Teshnehlab led projects.
+
+#----------------------------------------------
+#              COURSES TAUGHT
+#----------------------------------------------
+teaching:
+  - degree: Graduate 
+    start: 2014
+    end: present
+    courses: 
+      - Machine Learning
+      - Deep Learning
+      - Natural Language Processing
+      - Speech Processing
+      - Mining of Massive Data Sets
+      - Advanced Artificial Intelligence (Reinforcement learning and PGM)
+
+  - degree: Undergraduate 
+    start:  2010
+    end: present
+    courses:
+      - Artificial Intelligence(Search, CSP, Adversarial Search, Logic Programming)
+      - Foundation of Programming(C / Python)
+      - Object-Oriented Programming(Java)
+      - formal language and automata theory
+
+#----------------------------------------------
+#              HONORS & OTHER ACHIEVEMENTS
+#----------------------------------------------
+
+awards:
+  - award: Research Fellowship in Data Science award form Bangor university, UK.
+    date: 2020
+    loc: Bangor, Gwynedd, UK
+
+  - award: merit-based scholarship form school of AI Rome, Italy
+    date: 2019
+    loc: Pi Campus, Rome, Italy
+
+  - award: Silver medal on Kaggle Competitions 
+    date: 2017
+    loc: Zillows Home Value Prediction, Seattle, USA
+    desc: |
+      I have achieved the rank of 71 among 3779 teams (top 2%) and got one silver medal.
+  
+  - award: Excellence in Teaching Award 
+    date: 2014 - 2019
+    loc: Azad University, Tehran, Iran
+    desc: |
+      I have got more than 18 / 20 teacher assessment score in university teacher assessment system for every semester.
+
+  - award: Ph.D. scholarship 
+    date: 2010
+    loc: Azad University, South Tehran Branch, Tehran, Iran
+
+  - award: Research Fellowship 
+    date: 2008
+    loc: KNTU, Intelligence System Lab, Tehran, Iran
+    desc: Multi-Objective Optimization
+
+  - award: Research Fellowship
+    date: 2007 
+    loc: KNTU, Intelligence System Lab, Tehran, Iran
+    desc: |
+      hybrid optimization methods to train neural network and fuzzy systems
+
+  - award : Top Rank Graduated Student in B. Sc. 
+    date: 2005  
+    loc: Azad University, Iran
+#----------------------------------------------
+#              Skill
+#----------------------------------------------
+skills: 
+  Programming_Languages:  
+    - Python 
+    - Java, 
+    - C/C++ 
+    - MATLAB
+    - ProLog
+  Python_Stack: |
+    PyTorch, Keras, TensorFlow, Gensim, NLTK, NumPy, Pandas,
+    SiKit-Learn, SciPy, Scrapy, Matplotlib, Seaborn, ...
+  Writing:
+    - HTML, CSS, JS 
+    - LATEX    
+    - Markdown 
+    - Microsoft Office
+  Others: 
+    - SQL 
+    - AWS cloud platform 
+    - Git/GitHub 
+    - Software Development
+  
+
+
+

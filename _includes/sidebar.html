@@ -1,0 +1,30 @@
+ 
+{% assign menu = site.data.menu %}
+<nav id="sidebar">
+    <div class="sidebar-header">
+        <img class="img-fluid img-profile rounded-circle mx-auto mb-2" src="/assets/img/profile_m.png" alt="" />
+        <h3 style=text-align:center>Vahid Seydi</h3>
+    </div>
+    <ul class="list-unstyled components">        
+        {% for c in menu %}
+        <div class="line"></div>
+            {% if c.items %} 
+                <li>               
+                    <a href="#{{c.submenu}}" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle"><i class="{{c.icon}}" style=margin-right:30px; aria-hidden="true"></i>{{c.name}}</a>
+                    <ul class="collapse list-unstyled" id="{{c.submenu}}" >
+                        {% for sc in c.items %}
+                            <li ><a href={{sc.href}} style="margin-left:40px">{{sc.name}}</a></li>                            
+                        {% endfor %} 
+                    </ul> 
+                </li>
+            {% else %}
+                <li><a href={{c.href}}><i class="{{c.icon}}" style=margin-right:30px; aria-hidden="true"></i>{{c.name}}</a></li>
+            {% endif %}
+        {% endfor %}
+        <div class="line" ></div>
+
+    </ul> 
+</nav>     
+        
+
+

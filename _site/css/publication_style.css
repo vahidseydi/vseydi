@@ -1,0 +1,106 @@
+
+
+.main-timeline{
+    overflow: hidden;
+    position: relative;
+}
+
+.main-timeline .timeline{
+    width: 90%;    /* vahid */
+    padding: 30px 1px 10px 40px;
+    float: left;
+    position: relative;
+}
+
+.main-timeline .timeline-content{
+    display: block;
+    /*background: #e9e9e7;*/
+    background: #e3e6e9;
+    padding:  80px 70px 10px 20px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.2) inset;
+    position: relative;
+}
+.main-timeline .timeline-content:hover{ text-decoration: none; background: #ffffff; }
+
+.main-timeline .year{
+    display: block;
+    width: 20%;
+    height: 50px;
+    padding: 0 0 0 10px;
+    font-size: 15px;
+    font-weight: 200;
+    color: #fff;
+    line-height: 50px;
+    border-radius: 10px 10px 10px 0;
+    position: absolute;
+    top: 20px;
+    left: -20px;
+    text-align: left;
+}
+
+#article {
+    background: #01053a;
+}
+
+#inproceedings {
+    background: #7c1f1f;
+
+}
+
+.main-timeline .title{
+    font-family: Serif   ;
+    font-size: 18px;
+    font-weight: 200;
+    text-transform: uppercase;
+    color: #000000;
+    
+}
+
+.main-timeline .author{
+    font-family: Sans-serif;  
+    font-size: 16px;
+    color: #242424;
+    
+    margin: 0 0 5px 0;
+}
+
+.main-timeline .booktitle{
+    font-size: 16px;
+    color: #6f6f6f;
+    margin: 0 0 5px 0;
+}
+
+.main-timeline .status{
+    font-size: 12px;
+    color: red;
+    margin: 0 0 5px 0;
+}
+
+
+
+
+
+.legend{
+    margin: auto auto;
+    align-content: center;
+    display: block;
+    padding: 10 10 10 10px;
+    width: 60%;
+    height: 50px;
+    /*background: #c47c48;*/
+    font-size: 15px;
+    font-weight: 100;
+    color: #fff;
+    line-height: 50px;
+    box-shadow: 0 0 20px rgba(0,0,0,0.4) inset;
+    border-radius: 10px 10px 10px 10px;
+    position: relative;
+    text-align: center;
+    
+}
+
+
+
+
+
+

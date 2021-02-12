@@ -1,0 +1,248 @@
+publications: 
+  - id: lotfi2021detection
+    type: article
+    statuse: published
+    title: Detection of rumor conversations in Twitter using graph convolutional networks
+    author: Lotfi, Serveh and Mirzarezaee, Mitra and Hosseinzadeh, Mehdi and Seydi, Vahid
+    journal: Applied Intelligence
+    pages: 1--14
+    year: 2021
+    publisher: Springer US
+    link: https://link.springer.com/article/10.1007/s10489-020-02036-0
+    doi: 
+
+
+  - id: madadi2020deep
+    type: article
+    statuse: published
+    title: Deep visual unsupervised domain adaptation for classification tasks - a survey
+    author: Madadi, Yeganeh and Seydi, Vahid and Nasrollahi, Kamal and Hosseini, Reshad and Moeslund, Thomas B
+    journal: IET Image Processing
+    year: 2020
+    publisher: IET Digital Library
+    link: https://digital-library.theiet.org/content/journals/10.1049/iet-ipr.2020.0087
+    doi: https://doi.org/10.1049/iet-ipr.2020.0087
+
+
+
+
+  - id: madadi2020deep
+    type: article
+    statuse: published
+    title: Deep Unsupervised Domain Adaptation for Image Classification via Low Rank Representation Learning
+    author: Madadi, Yeganeh and Seydi, Vahid and Hosseini, Reshad
+    journal: Journal of Advances in Computer Research
+    volume: 11
+    number: 1
+    pages: 57--67
+    year: 2020
+    publisher: Sari Branch, Islamic Azad University
+    link: https://www.jacr.iausari.ac.ir/article_675585.html
+    doi: 
+
+
+
+  - id: nafari2020using
+    type: article
+    statuse: published
+    title: Using precision of users' reviews to improve the performance of matrix factorisation method in recommender systems
+    author: Nafari, Masoumeh and Seydi, Vahid and Hosseinkhani, Hamidreza
+    journal: International Journal of Society Systems Science
+    volume: 12
+    number: 3
+    pages: 185--197
+    year: 2020
+    publisher: Inderscience Publishers (IEL)
+    link: https://www.inderscienceonline.com/doi/abs/10.1504/IJSSS.2020.111357
+    doi: https://doi.org/10.1049/iet-ipr.2020.0087
+
+
+
+  - id: gholamnezhad2020inverse
+    type: article
+    title: An inverse model-based multiobjective estimation of distribution algorithm using Random-Forest variable importance methods
+    author: Gholamnezhad, Pezhman and Broumandnia, Ali and Seydi, Vahid
+    journal: Computational Intelligence
+    year: 2020
+    link: https://onlinelibrary.wiley.com/doi/abs/10.1111/coin.12315
+    doi: https://doi.org/10.1111/coin.12315
+
+
+
+  - id : ebrahimi2017improved
+    type: inproceedings
+    statuse: published
+    title: Improved particle swarm optimization through orthogonal experimental design
+    author: Ebrahimi, Adeleh and Dehdeleh, Vajiheh and Boroumandnia, Ali and Seydi, Vahid
+    booktitle: 2017 2nd Conference on Swarm Intelligence and Evolutionary Computation (CSIEC)
+    pages: 153--158
+    year: 2017
+    organization: IEEE
+    link: https://ieeexplore.ieee.org/abstract/document/7940168
+    doi: https://doi.org/10.1109/CSIEC.2017.7940168
+
+
+
+  - id: seydi2015adaptive
+    type: inproceedings
+    statuse: published
+    title: Adaptive fuzzy influence function for cultural algorithm
+    author: Seydi, Vahid
+    booktitle: 2015 SAI Intelligent Systems Conference (IntelliSys)
+    pages: 692--697
+    year: 2015
+    organization: IEEE
+    link: https://ieeexplore.ieee.org/abstract/document/7361216
+    doi: https://doi.org/10.1109/IntelliSys.2015.7361216
+
+
+
+  - id: seydi2015adaptive
+    type: article
+    statuse: published
+    title: Adaptive Rule-Base Influence Function Mechanism for Cultural Algorithm
+    author: Seydi, Vahid and Teshnehlab, Mohamad and Aliyari Shoordeli, Mehdi
+    journal: Journal of Advances in Computer Engineering and Technology
+    volume: 1
+    number: 2
+    pages: 29--38
+    year: 2015
+    publisher: Science and Research Branch, Islamic Azad University
+    link: http://jacet.srbiau.ac.ir/?_action=articleInfo&article=6710
+    doi: 
+
+
+
+  - id: seydi2013neural
+    type: article
+    statuse: published
+    title: Neural Networks for Normative Knowledge Source of Cultural Algorithm
+    author: Seydi, Vahid and Teshnehlab, M and Aliyari Sh, Mahdi and Ahmadieh Khanesar, Mojtaba
+    journal: International Journal of Computational Intelligence Systems
+    year: 2013
+    link: https://www.tandfonline.com/doi/abs/10.1080/18756891.2013.870755
+    doi: https://doi.org/10.1080/18756891.2013.870755
+
+
+
+  - id: z2010design
+    type: inproceedings
+    statuse: published
+    title: Design an intelligent system to park the truck based on reinforcement learning and fuzzy logic
+    author: Z, Moeini and Seydi, Vahid and M, teshnehlab
+    booktitle: 10th Iranian Conference on Fuzzy Systems
+    year: 2010
+    organization: http://www.civilica.com/Paper-ICFUZZYS10-ICFUZZYS1
+    link: http://www.civilica.com/Paper-ICFUZZYS10-ICFUZZYS1
+    doi: 
+
+
+
+
+  - id: chamaani2008modified
+    type: article
+    statuse: published
+    title: Modified Multi-objective Particle Swarm Optimization for electromagnetic absorber design
+    author: Chamaani, S. and Mirtaheri, S.A. and Teshnehlab, M. and Shoorehdeli, M.A. and Seydi, Vahid
+    journal: Progress in Electromagnetics Research
+    volume: 79
+    pages: 353-366
+    year: 2008
+    link: http://www.jpier.org/PIER/pier.php?paper=07101702
+    doi: http://dx.doi.org/10.2528/PIER07101702
+
+
+
+  - id: ghomsheh2007multi
+    type: inproceedings
+    statuse: published
+    title: Multi objective optimization of ANFIS structure
+    author: Seydi, Vahid and Shoorehdeli, M Aliyari and Sharifi, A and Teshnehlab, M
+    booktitle: Intelligent and Advanced Systems, 2007. ICIAS 2007. International Conference on
+    pages: 249--253
+    year: 2007
+    organization: IEEE
+    link: https://ieeexplore.ieee.org/abstract/document/4658384
+    doi: https://doi.org/10.1109/ICIAS.2007.4658384
+
+
+
+
+
+  - id: ghomsheh2007improving
+    type: inproceedings
+    statuse: published
+    title: Improving the non-dominate sorting genetic algorithm for multi-objective optimization
+    author: Seydi, Vahid and Khanehsar, M Ahmadieh and Teshnehlab, M
+    booktitle: 2007 International Conference on Computational Intelligence and Security Workshops (CISW 2007)
+    pages: 89--92
+    year: 2007
+    organization: IEEE
+    link: https://ieeexplore.ieee.org/abstract/document/4425453
+    doi: https://doi.org/10.1109/CISW.2007.4425453
+
+
+  - id: ghomsheh2007training
+    type: inproceedings
+    statuse: published
+    title: Training ANFIS structure with modified PSO algorithm
+    author: Seydi, Vahid and Shoorehdeli, M Aliyari and Teshnehlab, M
+    booktitle: 2007 Mediterranean Conference on Control \& Automation
+    pages: 1--6
+    year: 2007
+    organization: IEEE
+    link: https://ieeexplore.ieee.org/abstract/document/4433927
+    doi: https://doi.org/10.1109/MED.2007.4433927
+
+
+
+
+
+  - id: arash2006micro
+    type: inproceedings
+    statuse: published
+    title: Micro-AWPSO Based on fuzzy controller for PSO's coefficients
+    author: Arash, Sharifi and Mohammad, Teshnehlab and Seydi, Vahid
+    booktitle: 1st Joint Congress on Fuzzy and Intelligent Systems, Mashhad, Iran.
+    year: 2006
+    link: http://www.civilica.com/Paper-FJCFIS01-FJCFIS01\_1
+    doi: 
+
+
+
+  - id: arash2006novel
+    type: inproceedings
+    statuse: published
+    title: A Novel GMDH neural Networks Based on ANFIS Structure
+    author: Arash, Sharifi and Mohammad, Teshnehlab and Seydi, Vahid
+    booktitle: 1st Joint Congress on Fuzzy and Intelligent Systems, Mashhad, Iran.
+    year: 2006
+    organization: http://www.civilica.com/Paper-FJCFIS01-FJCFIS01\_0
+    link:
+    doi: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
